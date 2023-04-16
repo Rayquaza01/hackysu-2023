@@ -1,0 +1,11 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+html, body {
+  margin: 0;
+  width: 100vw;
+}
+
