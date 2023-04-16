@@ -1,5 +1,5 @@
 # hackysu-2023
-A submission for HackYSU 2023
+A submission for HackYSU 2023 (Winner in Category "Best Use of React and/or FastAPI")
 
 Created by Joe Jarvis and Sam Macchione
 
